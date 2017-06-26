@@ -1,0 +1,1 @@
+include ':newswithchannels', ':newswithchannels-app', ':newswithchannels-instantapp'

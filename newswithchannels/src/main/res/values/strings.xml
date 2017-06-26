@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News By Channels</string>
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://ramghat.com\",\n  }\n}]</string>
+</resources>

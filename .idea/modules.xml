@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyInstantApps.iml" filepath="$PROJECT_DIR$/MyInstantApps.iml" />
+      <module fileurl="file://D:\AndroidProjects\MyInstantApps\newswithchannels\app.iml" filepath="D:\AndroidProjects\MyInstantApps\newswithchannels\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newswithchannels/newswithchannels.iml" filepath="$PROJECT_DIR$/newswithchannels/newswithchannels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newswithchannels-app/newswithchannels-app.iml" filepath="$PROJECT_DIR$/newswithchannels-app/newswithchannels-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newswithchannels-instantapp/newswithchannels-instantapp.iml" filepath="$PROJECT_DIR$/newswithchannels-instantapp/newswithchannels-instantapp.iml" />
+    </modules>
+  </component>
+</project>
